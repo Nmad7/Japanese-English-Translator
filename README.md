@@ -7,6 +7,7 @@ http://www.edrdg.org/wiki/index.php/Tanaka_Corpus
 http://www.manythings.org/anki/
 
 Sources:
+
 https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/
 
 https://medium.com/voice-tech-podcast/programming-a-machine-translator-ef87fe10606f
