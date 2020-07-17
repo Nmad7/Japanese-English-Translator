@@ -1,6 +1,7 @@
 # Japanese-English-Translator
 An attempt at a neural network translator that takes Japanese and goes to English
 Parallel corpus data (combo2.txt) to train the network was taken from two sites and the corpus were combined, then long sentences were removed.
+
 Data Sources:
 http://www.edrdg.org/wiki/index.php/Tanaka_Corpus
 
